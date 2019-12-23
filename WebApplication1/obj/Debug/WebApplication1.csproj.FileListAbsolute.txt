@@ -112,9 +112,6 @@ C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\roslyn\System.Refle
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
-C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.dll
-C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\WebApplication1.pdb
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\EntityFramework.dll
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
@@ -199,5 +196,8 @@ C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.S
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
 C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
-C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\MiniBlog.dll.config
+C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\MiniBlog.dll
+C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\bin\MiniBlog.pdb
+C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\MiniBlog.dll
+C:\Users\mrtsa\Downloads\WebApplication1\WebApplication1\obj\Debug\MiniBlog.pdb
